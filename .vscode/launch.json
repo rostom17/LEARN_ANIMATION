@@ -1,0 +1,49 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "learn_animation",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "AnimatedContainer",
+            "request": "launch",
+            "type": "dart",
+            "program": "lib/AnimatedContainer/main.dart"
+        },
+        {
+            "name": "AnimatedOpacity",
+            "request": "launch",
+            "type": "dart",
+            "program": "lib/AnimatedOpacity/main.dart"
+        },
+        {
+            "name": "AnimatedAlign",
+            "request": "launch",
+            "type": "dart",
+            "program": "lib/AnimatedAlign/main.dart"
+        },
+        {
+            "name": "AnimatedSwitcher",
+            "request": "launch",
+            "type": "dart",
+            "program": "lib/AnimatedSwitcher/main.dart"
+        },
+        {
+            "name": "learn_animation (profile mode)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "learn_animation (release mode)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        }
+    ]
+}
