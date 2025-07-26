@@ -34,6 +34,12 @@
             "program": "lib/AnimatedSwitcher/main.dart"
         },
         {
+            "name": "TweenAnimationBuilder",
+            "request": "launch",
+            "type": "dart",
+            "program": "lib/TweenAnimationBuilder/main.dart"
+        },
+        {
             "name": "learn_animation (profile mode)",
             "request": "launch",
             "type": "dart",
